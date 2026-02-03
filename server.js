@@ -7,10 +7,10 @@ const APP_VERSION = process.env.APP_VERSION || "v1.0";
 
 // Sample menu data (no database)
 const menu = [
-  { id: 1, name: "Margherita Pizza", price: 299 },
-  { id: 2, name: "Veg Burger", price: 149 },
-  { id: 3, name: "Pasta Alfredo", price: 249 },
-  { id: 4, name: "French Fries", price: 99 }
+  { id: 1, name: "poutine Pizza", price: 15 },
+  { id: 2, name: "Mushroom Swiss Burger", price: 9 },
+  { id: 3, name: "Pasta Alfredo", price: 18 },
+  { id: 4, name: "French Fries", price: 7 }
 ];
 
 // Serve static frontend
